@@ -8,3 +8,4 @@
 ### N.B.: the script will prevent the screen lockdown only while it is executing
 
 #### Author: Giuseppe Mauro
+#### Repo link: https://github.com/giuseppemauro99/Prevent_screen_lock.git
